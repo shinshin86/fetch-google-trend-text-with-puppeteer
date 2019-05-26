@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "dev": "node main.js",
+    "fmt": "prettier --write main.js"
+  },
+  "dependencies": {
+    "puppeteer": "^1.17.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.17.1"
+  },
+  "prettier": {
+    "singleQuote": true
+  }
+}
