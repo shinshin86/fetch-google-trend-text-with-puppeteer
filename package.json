@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "dev": "node main.js",
+    "start": "node main.js",
     "fmt": "prettier --write main.js"
   },
   "dependencies": {
